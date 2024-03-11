@@ -1,0 +1,15 @@
+version: 1.0.0
+Logging: 
+      stdout: false 
+      level:  debug
+      path: applog.log
+    
+server: 
+    port: ':7004'
+
+database:
+    host: ''
+    port: 3306
+    username: 'root'
+    password: 'Aniket@123'
+    name: 'Testdb'

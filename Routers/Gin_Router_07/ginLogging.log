@@ -1,0 +1,5 @@
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default
+[GIN-debug] Listening and serving HTTP on :8080
+{"TimeStamp":"2024-02-29T16:13:24.848391+05:30","StatusCode":0,"Latency":0,"ClientIP":"::1","Method":"GET","Path":"/getData","ErrorMessage":"","RequestProto":""}
